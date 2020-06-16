@@ -1,1 +1,0 @@
-module.exports = '我是依赖项'
